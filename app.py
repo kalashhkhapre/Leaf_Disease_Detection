@@ -114,6 +114,3 @@ if uploaded_file is not None:
     st.markdown("---")
     st.markdown("💡 **Sustainable Farming Tip of the Day**")
     st.info(tip)
-
-st.markdown("---")
-st.markdown("🔗 Built with ❤️ by Kalash | Powered by TensorFlow + Streamlit")
